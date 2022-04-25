@@ -1,7 +1,7 @@
 # PSO-Overview
 ## web site about PSO algorithm using react and flusk
 ## **Dashboard :** 
-<img src="https://user-images.githubusercontent.com/53795935/165104222-572593ae-786f-44fb-87b8-b6b54e05a5b7.png" width="1200" height="700">
+<img src="https://user-images.githubusercontent.com/53795935/165104222-572593ae-786f-44fb-87b8-b6b54e05a5b7.png" width="1000" height="500">
 ## **Benshmarks :**
 ![benResult1](https://user-images.githubusercontent.com/53795935/165103926-12c17345-d763-4cc7-9441-9c259b73b9b3.png)
 ![benResult2](https://user-images.githubusercontent.com/53795935/165103930-a3538d5f-9658-4350-bb33-e58f32a73c2a.png)
